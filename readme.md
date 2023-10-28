@@ -1,5 +1,3 @@
-# Template undangan pernikahan sederhana
-
 ## Tech stack
 - Bootstrap 5.3
 - AOS 2.3.4
