@@ -1,1 +1,1 @@
-aku cinta kamu tau
+Zzzzz
